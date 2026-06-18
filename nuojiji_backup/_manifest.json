@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1781796748303,
+  "timestamp": 1781796755374,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -68,7 +68,7 @@
     "summaryEntries": 2,
     "roleStickers": 5,
     "tmStories": 5,
-    "multiSceneStories": 1
+    "multiSceneStories": 2
   },
   "completedTables": {
     "characters": true,
@@ -82,7 +82,8 @@
     "memory": true,
     "callLogs": true,
     "tmSessions": true,
-    "multiSceneSessions": true
+    "multiSceneSessions": true,
+    "multiSceneCastSettings": true
   },
   "source": "auto",
   "inProgress": true
