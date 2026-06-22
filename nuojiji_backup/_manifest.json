@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1782148917059,
+  "timestamp": 1782148928360,
   "appVersion": "6.9.1 (2026.06.21)",
   "tables": [
     "characters",
@@ -63,5 +63,9 @@
     "homelandState",
     "_migration"
   ],
+  "completedTables": {
+    "characters": true,
+    "worldBooks": true
+  },
   "inProgress": true
 }
