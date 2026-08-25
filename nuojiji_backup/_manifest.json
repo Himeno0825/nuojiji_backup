@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787666955956,
+  "timestamp": 1787666963503,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -156,7 +156,8 @@
     "novelChapters": true,
     "coReadBooks": true,
     "coReadChapters": true,
-    "coReadSessions": true
+    "coReadSessions": true,
+    "walletTransactions": true
   },
   "source": "auto",
   "inProgress": true
