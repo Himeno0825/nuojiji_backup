@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787666818976,
+  "timestamp": 1787666826075,
   "appVersion": "auto-backup",
   "tables": [
     "characters",
@@ -149,7 +149,8 @@
     "isekaiPresets": true,
     "naiVibeCache": true,
     "_migration": true,
-    "friendRequests": true
+    "friendRequests": true,
+    "customGameSaves": true
   },
   "source": "auto",
   "inProgress": true
